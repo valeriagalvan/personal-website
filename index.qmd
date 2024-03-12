@@ -1,9 +1,20 @@
-## Title of website
+---
+title: "Valeria Galvan Maldonado"
+toc: false
+about: 
+  template: trestles
+  links: 
+      - icon: linkedin
+        text: LinkedIn
+        url: https://www.linkedin.com/in/valeria-galvan-maldonado-ba1b861a9/
+      - icon: github
+        text: GitHub
+        url: https://github.com/valeriagalvan
+      - icon: inbox-fill
+        text: Email
+        url: "mailto:valeriaxgalvan@gmail.com"
+image: IMG_4938.jpg
+---
 
-This is a Quarto website.
+Attached is my current [resume](/docs/Resume/Resume.pdf "Resume").
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```

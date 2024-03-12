@@ -6,10 +6,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - href: projects.qmd
-        text: Projects
-
+      - href: about.qmd
+        text: Relevant Experience
+  page-footer: 
+      right: "&copy; 2024, Valeria Galvan Maldonado"
+       
 format:
   html:
     theme: cosmo

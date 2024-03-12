@@ -2,29 +2,36 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Relevant Experience",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Data Analyst at Palo Alto Networks\n\nLed a significant SAP audit project, cross referencing data to validate and secure accurate information, enhancing transparency and data integrity\nPlayed a key role in data mining for customer escalation requests, contributing to enhanced problem resolution\nManaged quality module data audits to ensure data accuracy and compliance with established standards\nSuccessfully handled special projects and one-off requests from members of the Hardware, Quality, and Compliance Engineering team, showcasing independence, adaptability, and versatility\nDemonstrated proficiency over 5 years in utilizing key tools including Salesforce, SAP, Excel, and Flexflow\n\nData Analyst and Student Researcher for the Department of Neuroscience and Psychiatry at UCLA\n\nCollaborated in a substantial study utilizing the Human Connectome Project (HCP) database, a large repository of neuroimaging data\nApplied advanced statistical analyses using R to derive meaningful insights, uncovering differences in brain structure between bilinguals and monolinguals\n\n-Established proficiency in communication and teamwork, fostering a positive and productive team environment throughout the research project"
+  },
+  {
+    "objectID": "about.html#relevant-work-experience",
+    "href": "about.html#relevant-work-experience",
+    "title": "Relevant Experience",
+    "section": "",
+    "text": "Data Analyst at Palo Alto Networks\n\nLed a significant SAP audit project, cross referencing data to validate and secure accurate information, enhancing transparency and data integrity\nPlayed a key role in data mining for customer escalation requests, contributing to enhanced problem resolution\nManaged quality module data audits to ensure data accuracy and compliance with established standards\nSuccessfully handled special projects and one-off requests from members of the Hardware, Quality, and Compliance Engineering team, showcasing independence, adaptability, and versatility\nDemonstrated proficiency over 5 years in utilizing key tools including Salesforce, SAP, Excel, and Flexflow\n\nData Analyst and Student Researcher for the Department of Neuroscience and Psychiatry at UCLA\n\nCollaborated in a substantial study utilizing the Human Connectome Project (HCP) database, a large repository of neuroimaging data\nApplied advanced statistical analyses using R to derive meaningful insights, uncovering differences in brain structure between bilinguals and monolinguals\n\n-Established proficiency in communication and teamwork, fostering a positive and productive team environment throughout the research project"
+  },
+  {
+    "objectID": "about.html#relevant-academic-experience",
+    "href": "about.html#relevant-academic-experience",
+    "title": "Relevant Experience",
+    "section": "Relevant Academic Experience",
+    "text": "Relevant Academic Experience\n\nData Manipulation with dplyr\nModeling with Data in the Tidyverse\nModeling with tidymodels in R\nIntroduction to Statistical Models and Data Mining\nIntroduction to Design and Analysis of Experiment\nIntroduction to Data Analysis and Regression\nIntroduction to Computational Statistics with R"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "Projects",
+    "title": "Resume",
     "section": "",
     "text": "About this site"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "",
+    "title": "Valeria Galvan Maldonado",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#title-of-website",
-    "href": "index.html#title-of-website",
-    "title": "",
-    "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Attached is my current resume."
   }
 ]

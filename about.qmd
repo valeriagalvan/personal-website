@@ -1,9 +1,40 @@
 ---
-title: "About"
+title: "Relevant Experience"
 ---
 
-About this site
+## Relevant Work Experience 
 
-```{r}
-1 + 1
-```
+Data Analyst at Palo Alto Networks 
+
+- Led a significant SAP audit project, cross referencing data to validate and secure accurate information, enhancing transparency and data integrity
+
+- Played a key role in data mining for customer escalation requests, contributing to enhanced problem resolution
+- Managed quality module data audits to ensure data accuracy and compliance with established standards
+
+- Successfully handled special projects and one-off requests from members of the Hardware, Quality, and Compliance Engineering team, showcasing independence, adaptability, and versatility
+
+- Demonstrated proficiency over 5 years in utilizing key tools including Salesforce, SAP, Excel, and Flexflow
+
+Data Analyst and Student Researcher for the Department of Neuroscience and Psychiatry at UCLA 
+
+- Collaborated in a substantial study utilizing the Human Connectome Project (HCP) database, a large repository of neuroimaging data
+
+- Applied advanced statistical analyses using R to derive meaningful insights, uncovering differences in brain structure between bilinguals and monolinguals
+
+- Established proficiency in communication and teamwork, fostering a positive and productive team environment throughout the research project
+
+## Relevant Academic Experience 
+
+- Data Manipulation with dplyr
+
+- Modeling with Data in the Tidyverse
+
+- Modeling with tidymodels in R
+
+- Introduction to Statistical Models and Data Mining
+
+- Introduction to Design and Analysis of Experiment 
+
+- Introduction to Data Analysis and Regression
+
+- Introduction to Computational Statistics with R
