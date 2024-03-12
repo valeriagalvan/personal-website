@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  navbar: 
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: projects.qmd
+        text: Projects
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+execute: 
+  freeze: auto
+
+
